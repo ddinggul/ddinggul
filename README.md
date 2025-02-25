@@ -1,9 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddinggul&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddinggul&layout=compact)
-
-[![코드트리|실력진단-playk2000](https://banner.codetree.ai/v1/banner/playk2000)](https://www.codetree.ai/profiles/playk2000)
 <!--
 **ddinggul/ddinggul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
